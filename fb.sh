@@ -59,7 +59,7 @@ echo '                 v    v     ';
 echo '            vvvvvv    vvvvvv   ';
 echo '       vvvvvv    v    v    vvvvvv  ';
 echo '       v    v    v    v    v    v   ';
-echo '       v    v    v    v    v    v    ':
+echo '       v    v    v    v    v    v    ';
 echo '       v    v    v    v    v    v    ';
 echo '       v    v    v    v    v    v    ';
 echo '       v    v    v    v    v    v    ';
