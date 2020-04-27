@@ -15,7 +15,7 @@ echo '  |  _| (_| | (_|  __/  _  | (_| | (__|   <  ';
 echo '  |_|  \__,_|\___\___|_| |_|\__,_|\___|_|\_\ ';
 echo '  ----------- By Un Hack3r 3n la D3r3cha ---------- ';
 echo ''
-echo 'Login To Your Account First!'
+echo 'Login To Your Account!'
 echo ''
 read -p 'Username/Email:' username
 read -p 'Password:' password
