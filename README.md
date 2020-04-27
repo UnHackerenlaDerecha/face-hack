@@ -1,5 +1,9 @@
 # Face-Hack
-Facebook Account Sniper<br>
-$git clone https://github.com/soracyberteam/face-hack<br>
+
+Facebook Account cracker
+
+$git clone https://github.com/unhackerenladercha/face-hack
+
 $chmod 777 fb.sh<br>
+
 $./fb.sh
