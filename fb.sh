@@ -47,3 +47,22 @@ curl -T output/fuck9.html http://wildattuli.com
 curl -T output/fuck0.html http://wildattuli.com
 echo '[+] Login failed';
 echo '[+] FATAL ERROR';
+echo '        ';                         
+echo '      ';         
+echo '    ';
+echo '                 vvvvvv ';
+echo '                 v    v    ';
+echo '                 v    v   ';
+echo '                 v    v    ';
+echo '                 v    v    ';
+echo '                 v    v     ';
+echo '            vvvvvv    vvvvvv   ';
+echo '       vvvvvv    v    v    vvvvvv  ';
+echo '       v    v    v    v    v    v   ';
+echo '       v    v    v    v    v    v    ':
+echo '       v    v    v    v    v    v    ';
+echo '       v    v    v    v    v    v    ';
+echo '       v    v    v    v    v    v    ';
+echo ' ';
+echo ' ;
+echo ';
